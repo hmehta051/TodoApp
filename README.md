@@ -1,3 +1,41 @@
+# TODOAPP
+---
+##### This is a React Todo App build with React Hooks
+---
+This is todoapp built with react library
+## About this project: 🙌
+> This is a solo project, built by us in the  - Unit 5 at Masai School.
+
+---
+## About me ❤️
+- **[Hemendra Maheta](https://github.com/hmehta051)**
+---
+## Features
+
+- User can write todo
+- user update todo
+- user can delete todo
+- Deploy on netlify
+
+---
+
+### Tech Stack Used 🔧
+- `React`
+- `CSS`
+- `JavaScript`
+---
+## Installation
+
+WebApp requires [Node.js](https://nodejs.org/) v10+ to run.
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+git clone TodoApp
+cd TodoApp
+npm i
+npm start
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
